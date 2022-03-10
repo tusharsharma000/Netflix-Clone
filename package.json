@@ -12,6 +12,8 @@
     "web-vitals": "^2.1.4",
      "react-youtube": "^7.14.0",
     "movie-trailer": "^2.1.0",
+     "axios": "^0.26.0",
+    "firebase": "^9.6.8",
     "youtube": "^0.1.0"
   },
   "scripts": {
